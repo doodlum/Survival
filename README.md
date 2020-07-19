@@ -1,1 +1,1 @@
-# SurvivalA
+# Survival
